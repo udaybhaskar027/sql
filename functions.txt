@@ -1,4 +1,0 @@
-1.select
-2.where
-3.join
-4.union
